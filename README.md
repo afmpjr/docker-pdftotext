@@ -1,5 +1,4 @@
-# docker-pdftotext
-#### A imagem comprimida tem apenas ~ 7MB
+#### A imagem comprimida tem apenas 7MB
 
 [Alpine](https://alpinelinux.org/) com [Poppler](https://poppler.freedesktop.org/) Utils (pdftotext)
 
